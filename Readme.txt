@@ -15,11 +15,3 @@ to be the next farthest position and so on.
 Note:
 1- You will find screenshots and a small video for the gui attached.
 2- You will find the executable jar file fi folder named jar file
-
-Team:
-
-1- Zeyad Taher Mahmoud Bashir   20190219    zeyadtaher16@gmail.com
-2- Abdullah Mahmoud Eid         20190310    abdallahammar323@gmail.com
-3- Zeyad AbdelMonem Ahmed       20190220    ziad.beda95@gmail.com
-4- Adel Ashraf AbdelHady        20190279    adel4ashraf@outlook.com
-5- Yasmine Khaled               20190618    yasminekhaled558@gmail.com
